@@ -1,4 +1,4 @@
-六爻排盘 AI解卦
+六爻排盘 AI解卦 有道六爻排盘
 
 https://liuyao.youdaopaipan.com/
 
@@ -17,5 +17,6 @@ https://liuyao.youdaopaipan.com/help.html
  <img width="400" height="900" alt="image" src="https://liuyao.youdaopaipan.com/help/share1.PNG" />
 
 5. 卦例1
-    <img width="400" height="900" alt="image" src="https://liuyao.youdaopaipan.com/help/ex1.jpg" />
+<img width="400" height="2000" alt="image" src="https://github.com/user-attachments/assets/627727a3-7439-429b-9f15-88e12b386a08" />
+
 
