@@ -13,7 +13,7 @@ https://liuyao.youdaopaipan.com/help.html
 
 4. 获得APP？
    
-    <img width="400" height="900" alt="image" src="https://liuyao.youdaopaipan.com/help/add1.PNG" />
+    <img width="400" height="700" alt="image" src="https://liuyao.youdaopaipan.com/help/add1.PNG" />
 
 5. 如何转发和收录？
    
